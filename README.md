@@ -2,7 +2,7 @@
 
 > A text-based street empire builder built for the [Jest platform](https://jest.com) — playable instantly via RCS/iMessage, no app store required.
 
-URL: opps-7fv.pages.dev
+URL: [opps-7fv.pages.dev](https://opps-7fv.pages.dev)
 
 **Status: Early Prototype / Work In Progress**
 
